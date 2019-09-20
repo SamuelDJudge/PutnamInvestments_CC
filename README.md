@@ -78,7 +78,7 @@ As for how to distribute this, the idea was the replace the dictionary with eith
 
 ## Pipeline
 
-![Pipeline](PutnamI_CC_PipelineProposition.png)
+![Pipeline](pipeline_info/PutnamI_CC_PipelineProposition.png)
 
 As an explaination of the pipeline, here is a "play-by-play" of my idea of passage of the date. 
 
