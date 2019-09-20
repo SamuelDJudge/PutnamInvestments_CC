@@ -20,9 +20,9 @@ The problem, as stated, was to build a program that could be distributed that co
 
 The following was requested as part of the project: 
 
-* a digram of the end-to-end data pipeline with all cloud services required (using AWS) 
-* commented code (see the .py file) 
-* output dataset saved in .csv format. 
+* a [diagram](README.md#pipeline) of the end-to-end data pipeline with all cloud services required (using AWS) 
+* commented code (see the [.py file](code/Putnam_Investments_CC.py))
+* output dataset saved in [.csv format](csv_files/assets_percentage_growth.csv). 
 
 ## Basic Strategy
 
